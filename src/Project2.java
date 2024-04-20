@@ -4,9 +4,9 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * @author Aayushi Ahlawat
+ * 
  * @author Bhargav Patel
- * @author Matthew Aber 
+ * 
  */
 
 public class Project2 {
