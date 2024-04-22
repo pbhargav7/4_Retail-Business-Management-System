@@ -65,3 +65,4 @@ The directory tree is shown below:
 Building the project in VS Code with Java extensions is trivial, as the output paths and include paths are already set up to build from this environment.
 Moreover, the precompiled bytecode files are already included in the `bin` folder, so building the project isn't necessarily needed to run the program.
 Running the program from VS Code is also trivial. The project's `main` function is written in `src/Project2.java` and compiles to `bin/Project2.class`.
+
