@@ -67,3 +67,4 @@ Moreover, the precompiled bytecode files are already included in the `bin` folde
 Running the program from VS Code is also trivial. The project's `main` function is written in `src/Project2.java` and compiles to `bin/Project2.class`.
 
 
+
